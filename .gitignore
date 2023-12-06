@@ -1,3 +1,4 @@
 # ignore all .txt files (this is a comment)
 *.txt
 
+**/.DS_Store
